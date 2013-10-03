@@ -1,45 +1,1 @@
-,,,,,,,,,,,,,,
-,UNIQUE ID,TITLE,Category,Proposed URL,SOURCE,OWNER,STATUS,,,,,,,
-,01,Space Intro,Space Basics,http://lookup.com/basic,http://en.wikipedia.org/wiki/Space,Caro,Needs to be written,,,,,,,
-,02,Planet,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Planets,Caro,Needs formatting,,,,,,,
-,03,Mercury,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Mercury_(planet),Caro,Needs formatting,,,,,,,
-,04,Venus,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Venus,Caro,Needs formatting,,,,,,,
-,05,Earth,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Earth,Caro,Needs formatting,,,,,,,
-,06,Mars,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Mars,Caro,Needs formatting,,,,,,,
-,07,Jupiter,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Jupiter,Caro,Needs formatting,,,,,,,
-,08,Saturn,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Saturn,Caro,Needs formatting,,,,,,,
-,09,Uranus,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Uranus,Caro,Needs formatting,,,,,,,
-,10,Neptune,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Neptune,Caro,Needs formatting,,,,,,,
-,11,Space Exploration,Space Basics,http://lookup.com/basic,http://en.wikipedia.org/wiki/Space_exploration,Caro,Needs formatting,,,,,,,
-,12,Diamond Planet,Extras,http://lookup.com/extras,http://en.wikipedia.org/wiki/PSR_J1719-1438_b,Caro,Needs formatting,,,,,,,
-,13,Largest Known Star,Extras,http://lookup.com/extras,http://en.wikipedia.org/wiki/VY_Canis_Majoris,Caro,Needs formatting,,,,,,,
-,14,Nebula,Phenomenons,http://lookup.com/phenomenons,https://en.wikipedia.org/wiki/Nebula,Caro,Needs formatting,,,,,,,
-,15,Comet,Entities,http://lookup.com/entities,https://en.wikipedia.org/wiki/Commet,Caro,Needs formatting,,,,,,,
-,16,Star,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Stars,Caro,Needs formatting,,,,,,,
-,17,Meteorite,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Meteorite,Caro,Needs formatting,,,,,,,
-,18,Meteor Shower,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Meteor_shower,Caro,Needs formatting,,,,,,,
-,19,Milky Way,Extras,http://lookup.com/extras,http://en.wikipedia.org/wiki/Milky_Way,Caro,Needs formatting,,,,,,,
-,20,Black Holes,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Black_holes,Caro,Needs formatting,,,,,,,
-,21,Cosmic Microwave Background,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Cosmic_microwave_background_radiation,Caro,Needs formatting,,,,,,,
-,22,Exoplanet,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Exoplanet,Caro,Needs formatting,,,,,,,
-,23,Interacting Galaxy,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Galactic_cannibalism,Caro,Needs formatting,,,,,,,
-,24,Quasars,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Quasar,Caro,Needs formatting,,,,,,,
-,25,Galaxy,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Galaxy,Caro,Needs formatting,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,
+,,,,,,,,UNIQUE ID,TITLE,Category,Proposed URL,SOURCE,OWNER,STATUS,1,Space Intro,Space Basics,http://lookup.com/basic,http://en.wikipedia.org/wiki/Space,Caro,Needs to be written,2,Planet,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Planets,Caro,Needs formatting,3,Mercury,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Mercury_(planet),Caro,Needs formatting,4,Venus,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Venus,Caro,Needs formatting,5,Earth,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Earth,Caro,Needs formatting,6,Mars,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Mars,Caro,Needs formatting,7,Jupiter,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Jupiter,Caro,Needs formatting,8,Saturn,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Saturn,Caro,Needs formatting,9,Uranus,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Uranus,Caro,Needs formatting,10,Neptune,Planets,http://lookup.com/planets,http://en.wikipedia.org/wiki/Neptune,Caro,Needs formatting,11,Space Exploration,Space Basics,http://lookup.com/basic,http://en.wikipedia.org/wiki/Space_exploration,Caro,Needs formatting,12,Diamond Planet,Extras,http://lookup.com/extras,http://en.wikipedia.org/wiki/PSR_J1719-1438_b,Caro,Needs formatting,13,Largest Known Star,Extras,http://lookup.com/extras,http://en.wikipedia.org/wiki/VY_Canis_Majoris,Caro,Needs formatting,14,Nebula,Phenomenons,http://lookup.com/phenomenons,https://en.wikipedia.org/wiki/Nebula,Caro,Needs formatting,15,Comet,Entities,http://lookup.com/entities,https://en.wikipedia.org/wiki/Commet,Caro,Needs formatting,16,Star,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Stars,Caro,Needs formatting,17,Meteorite,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Meteorite,Caro,Needs formatting,18,Meteor Shower,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Meteor_shower,Caro,Needs formatting,19,Milky Way,Extras,http://lookup.com/extras,http://en.wikipedia.org/wiki/Milky_Way,Caro,Needs formatting,20,Black Holes,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Black_holes,Caro,Needs formatting,21,Cosmic Microwave Background,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Cosmic_microwave_background_radiation,Caro,Needs formatting,22,Exoplanet,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Exoplanet,Caro,Needs formatting,23,Interacting Galaxy,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Galactic_cannibalism,Caro,Needs formatting,24,Quasars,Phenomenons,http://lookup.com/phenomenons,http://en.wikipedia.org/wiki/Quasar,Caro,Needs formatting,25,Galaxy,Entities,http://lookup.com/entities,http://en.wikipedia.org/wiki/Galaxy,Caro,Needs formatting
