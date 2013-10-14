@@ -1,0 +1,40 @@
+
+
+/* TEAM */
+
+
+Your title: Caroline A. Guindon
+
+
+Site: cgdesigned.ca
+
+
+Location: Ottawa, Canada
+
+
+
+                        [...]
+
+
+
+/* THANKS */
+
+
+Name: Thomas J. Bradley
+
+
+
+                        [...]
+
+
+
+/* SITE */
+
+
+Last update: 2013/10/10
+
+
+Standards: HTML5
+
+
+Software: Sublime Text, Jekyll, Github
