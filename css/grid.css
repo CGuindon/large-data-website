@@ -78,7 +78,7 @@
   }
 }
 
-@media only screen and (min-width: 30em) and (max-width: 38em) {
+@media only screen and (min-width: 30em) and (max-width: 41em) {
   .unit-s-hidden {
     display: none;
     visibility: hidden;
@@ -136,7 +136,7 @@
   }
 }
 
-@media only screen and (min-width: 38em) and (max-width: 60em) {
+@media only screen and (min-width: 41em) and (max-width: 60em) {
   .unit-m-hidden {
     display: none;
     visibility: hidden;
