@@ -26,6 +26,11 @@ body {
 	font-weight: lighter;
 }
 
+.bg-image {
+	opacity: 0.8;
+	position: fixed;
+}
+
 hr {
 	height: 1px;
 	border: none;
@@ -117,6 +122,10 @@ footer {
 	border-top-width: 1px;
 }
 
+.first-p {
+	margin-top: 0;
+}
+
 .last-p {
 	padding-bottom: 2em;
 	margin-bottom: 2em;
@@ -128,6 +137,11 @@ footer {
 
 .text-icon {
 	float: middle;
+}
+
+.content-photo {
+	float: middle;
+	max-width: 100%;
 }
 
 .orange {
