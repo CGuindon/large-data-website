@@ -16,6 +16,8 @@ html {
 	padding: 0;
 	background-color: #fff;
 	font: normal 100%/1.4 'Oswald',sans-serif;
+
+	background-image: url('img/bg-nebula-red.jpg');
 }
 
 body {
