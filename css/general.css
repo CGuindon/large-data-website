@@ -16,16 +16,21 @@ html {
 	padding: 0;
 	background-color: #fff;
 	font: normal 100%/1.4 'Oswald',sans-serif;
-
-	background-image: url('img/bg-nebula-red.jpg');
 }
 
 body {
 	margin: 0;
 	padding: 1em;
+	background-image: url("../img/bg-stars.jpg");
 	background-color: #000;
+
 	color: #fff;
 	font-weight: lighter;
+}
+
+.bg-saturn {
+		background-image: url("../img/saturn.jpg");
+		background-repeat: no-repeat;
 }
 
 .unit-spacer-right{
@@ -178,12 +183,15 @@ footer {
 	margin: auto;
 }
 
+.stats tr{
+	margin-bottom: 2em;
+}
+
 .stats th{
 	text-transform: uppercase;
 	text-align: right;
 	padding-right: 1em;
 	font-weight: 300;
-	padding-bottom: 1em;
 }
 
 .stats td{
