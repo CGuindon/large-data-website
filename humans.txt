@@ -13,8 +13,7 @@ Location: Ottawa, Canada
 
 
 
-                        [...]
-
+                     
 
 
 /* THANKS */
@@ -24,7 +23,7 @@ Name: Thomas J. Bradley
 
 
 
-                        [...]
+             
 
 
 
