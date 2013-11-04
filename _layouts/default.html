@@ -32,9 +32,15 @@
 </head>
 <body class="{{page.bgclass}}">
 
+<ul class="skiplinks">
+<li><a href="#main">Skip to primary content</a></li>
+<li><a href="#comp">Skip to secondary content</a></li>
+<li><a href="#navi">Skip to main navigation</a></li>
+</ul>
+
 	<header>
 
-		<div class="grid">
+		<div class="grid" role="navigation" id="navi">
 
 			<div class="logo unit unit-xs-1 unit-s-1-2 unit-m-1-3 unit-l-1-3">
 				<div class="unit-spacer">
@@ -123,11 +129,13 @@
 
 	</header>
 
+	<main role="main" id="main">
 	{{content}}
+	</main>
 
 		<div class="grid">
 			<div class="unit unit-xs-1 unit-s-1 unit-m-1 unit-l-1">
-				<footer>© All Rights Reserved. Design created by Caroline Guindon. Content sourced from <a href="http://en.wikipedia.org/" class="bold" rel="external">Wikipedia.org</a></footer>
+				<footer role="contentinfo">© All Rights Reserved. Design created by Caroline Guindon. Content sourced from <a href="http://en.wikipedia.org/" class="bold" rel="external">Wikipedia.org</a></footer>
 			</div>
 		</div>
 
