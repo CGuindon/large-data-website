@@ -291,6 +291,15 @@ footer {
 	background-size: 35%;
 }
 
+.i-basics {
+	background-image: url("../img/icons/basics.svg");
+}
+
+.i-exploration {
+	background-image: url("../img/icons/exploration.svg");
+}
+
+
 .i-more-stars {
 	background-image: url("../img/icons/more-stars.svg");
 }
