@@ -289,6 +289,12 @@ footer {
 	background-repeat: no-repeat;
 	background-position: center top;
 	background-size: 35%;
+	max-width: 15em;
+}
+
+.link-box img {
+
+	margin: auto;
 }
 
 .i-basics {
