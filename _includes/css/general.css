@@ -344,6 +344,26 @@ hr {
 	margin: 2em 0;
 }
 
+.lostpage {
+	padding: 3em 1em;
+}
+
+.lost {
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.h1-lost {
+	text-align: center;
+	font-size: 4em;
+}
+
+.h2-lost {
+	text-align: center;
+	font-size: 2em;
+}
+
 
 @media only screen and (min-width: 30em) and (max-width: 38em) {
   body {
@@ -378,6 +398,14 @@ hr {
   	body {
     font-size: 110%;
   }
+
+  .h1-lost {
+	font-size: 6em;
+}
+
+.h2-lost {
+	font-size: 2em;
+}
 
 	}
 
