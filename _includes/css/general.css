@@ -224,12 +224,10 @@ footer {
 }
 
 .stats-img {
-	float: middle;
 	max-width: 100%;
 }
 
 .content-img {
-	float: middle;
 	max-width: 100%;
 	padding-top: 5.5em;
 }
