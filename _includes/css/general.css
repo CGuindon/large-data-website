@@ -14,19 +14,28 @@
 html {
 	margin: 0;
 	padding: 0;
-	background-color: #fff;
+	background-color: #2e2e2e;
 	font: normal 100%/1.4 'Oswald',sans-serif;
 }
 
 body {
-	margin: 0;
 	padding: 1em;
 	background-image: url("../img/bg-stars.jpg");
 	background-color: #000;
 	background-size: 100% auto;
-
 	color: #fff;
 	font-weight: lighter;
+
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+@media only screen and (min-width: 320px) {
+
+	body {
+		max-width: none
+	}
+
 }
 
 
