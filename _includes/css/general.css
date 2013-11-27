@@ -38,11 +38,6 @@ body {
 
 }
 
-.flex-img {
-	display: block;
-	width: 100%;
-}
-
 
 
 .skiplinks{
@@ -135,7 +130,6 @@ hr {
 }
 
 .logo img {
-	width: 100%;
 	max-width: 15em;
 }
 
