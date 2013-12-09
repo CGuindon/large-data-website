@@ -20,6 +20,10 @@
   vertical-align: top;
   word-spacing: normal;
 }
+
+.unit-spacer {
+  padding: 8px;
+}
 /**
  * `units(prefix, cols = 4, add-offsets = false)`
  *
