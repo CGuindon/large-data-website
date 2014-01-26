@@ -38,6 +38,9 @@ body {
 
 }
 
+.system-content {
+	background-color: rgba(0,0,0,0.5);
+}
 
 
 .skiplinks{
@@ -81,9 +84,10 @@ outline: 3px solid #fff;
 
 
 .bg-saturn {
-		background-image: url("../img/saturn.jpg");
+		background-image: url("../img/bg-cosmic-collision.jpg");
 		background-repeat: no-repeat;
-
+		width: 100%;
+		display: block;
 }
 
 .bg-home {
@@ -95,6 +99,13 @@ outline: 3px solid #fff;
 
 .bg-system {
 		background-image: url("../img/bg-dwarf-galaxy.jpg");
+		background-repeat: no-repeat;
+		width: 100%;
+		display: block;
+}
+
+.bg-stars {
+		background-image: url("../img/bg-nebula-red2.jpg");
 		background-repeat: no-repeat;
 		width: 100%;
 		display: block;
